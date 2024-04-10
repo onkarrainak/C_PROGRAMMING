@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\Onkar-PC\\.vscode\\extensions\\bartmanabyss.amiga-debug-1.0.0\\bin\\opt\\bin\\m68k-amiga-elf-gcc.exe",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "editor.mouseWheelZoom": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "python.autoComplete.addBrackets": true,
+    "testing.enableProblemDiagnostics": true,
+    "problems.showCurrentInStatus": true,
+    "editor.renderLineHighlightOnlyWhenFocus": true
+}
